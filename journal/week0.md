@@ -32,10 +32,15 @@ I was able to resolve the error by closing command prompt, and opening it again.
 ### Setup an account in Lucid Chart for free
 Created a free account in Lucid Chart platform.
 
+### Recreate Logical Architecture Diagram
+
 ![Cruddur Lucid Chart](assets/cruddur-logical-daigram-lucid-chart.jpeg)
+
 [Proof of my Cruddur Lucid Chart ](https://lucid.app/lucidchart/7f7fd618-6cfb-416d-853a-b77da45ed7a2/edit?page=0_0#)
 
-Napkin Diagram
+
+### Napkin Diagram
+
 ![Cruddur Logical Diagram](assets/cruddur-logical-daigram.jpeg)
 
 ### Create a Billing Alarms
