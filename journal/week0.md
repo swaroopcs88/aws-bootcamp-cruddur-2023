@@ -38,10 +38,12 @@ Created a free account in Lucid Chart platform.
 Napkin Diagram
 ![Cruddur Logical Diagram](assets/cruddur-logical-daigram.jpeg)
 
+### Create a Billing Alarms
 
 Proof Of AWS Billing Alarms
 ![Proof Of AWS Billing Alarms](assets/proof-of-billing-alerts.jpg)
 
+### Crate a AWS Budgets
 
 Proof of AWS Budgets Notifications
 ![Proof of AWS Budgets Notifications](assets/proof-of-aws-budgets.jpg)
