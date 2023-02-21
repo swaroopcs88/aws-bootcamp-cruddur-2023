@@ -36,7 +36,7 @@ Created a free account in Lucid Chart platform.
 
 ![Cruddur Lucid Chart](assets/cruddur-logical-daigram-lucid-chart.jpeg)
 
-[Proof of my Cruddur Lucid Chart ](https://lucid.app/lucidchart/7f7fd618-6cfb-416d-853a-b77da45ed7a2/edit?page=0_0#)
+[Proof of my Cruddur Lucid Chart ](https://lucid.app/lucidchart/7f7fd618-6cfb-416d-853a-b77da45ed7a2/edit?viewport_loc=-821%2C-428%2C3328%2C1646%2C0_0&invitationId=inv_2eaa3a62-2c3c-40f2-b023-74113e861666)
 
 
 ### Napkin Diagram
